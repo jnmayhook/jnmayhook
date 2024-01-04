@@ -1,6 +1,6 @@
-### Hi there! 👋 I'm a Web Developer based in the Pacific Northwest, currently working with the MERN Stack.
+## Hi there! 👋  I'm a Web Developer based in the Pacific Northwest.
 
-### 🚀 Technologies:
+### 🚀 My Tech Stack:
 - **Frontend:**
   - HTML5
   - CSS3 (Bootstrap)
