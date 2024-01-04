@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Web Developer in Poulsbo, WA, currently working in the MERN Stack.
+### Hi there! 👋 I'm a Web Developer based in the Pacific Northwest, currently working with the MERN Stack.
 
 ### 🚀 Technologies:
 - **Frontend:**
