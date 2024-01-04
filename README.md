@@ -2,40 +2,51 @@
 
 ### 💻 My Tech Stack:
 
-#### Frontend Development:
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- jQuery
-- React.js
-- Apollo Studio (GraphQL)
+<details>
+  <summary>Frontend Development</summary>
+  - HTML5
+  - CSS3
+  - Bootstrap
+  - JavaScript
+  - jQuery
+  - React.js
+  - Apollo Studio (GraphQL)
+</details>
 
-#### Backend Development:
-- Node.js
-- Express.js
-- MongoDB
-- RESTful API
-- GraphQL
-- Apollo Server
-- PHP
-- WordPress
+<details>
+  <summary>Backend Development</summary>
+  - Node.js
+  - Express.js
+  - MongoDB
+  - RESTful API
+  - GraphQL
+  - Apollo Server
+  - PHP
+  - WordPress
+</details>
 
-#### Database Management:
-- MySQL
-- MongoDB
-- MySQL Workbench
-- MongoDB Compass
+<details>
+  <summary>Database Management</summary>
+  - MySQL
+  - MongoDB
+  - MySQL Workbench
+  - MongoDB Compass
+</details>
 
-#### Version Control & Tools:
-- Git
-- GitHub
-- Visual Studio (IDE)
-- Insomnia (API testing)
+<details>
+  <summary>Version Control & Tools</summary>
+  - Git
+  - GitHub
+  - Visual Studio (IDE)
+  - Insomnia (API testing)
+</details>
 
-#### Security and Data Management:
-- Security and Session Storage
-- User Authentication
+<details>
+  <summary>Security and Data Management</summary>
+  - Security and Session Storage
+  - User Authentication
+</details>
+
 
 <!--
 **jnmayhook/jnmayhook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
