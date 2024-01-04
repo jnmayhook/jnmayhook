@@ -1,52 +1,26 @@
-### Hi there 👋 I'm a Web Developer in Poulsbo, WA
+### Hi there 👋 I'm a Web Developer in Poulsbo, WA, currently working in the MERN Stack.
 
-### 💻 My Tech Stack:
-
-<details>
-  <summary>Frontend Development</summary>
+### 🚀 Technologies:
+- **Frontend:**
   - HTML5
-  - CSS3
-  - Bootstrap
-  - JavaScript
-  - jQuery
-  - React.js
-  - Apollo Studio (GraphQL)
-</details>
-
-<details>
-  <summary>Backend Development</summary>
-  - Node.js
-  - Express.js
+  - CSS3 (Bootstrap)
+  - JavaScript (jQuery)
+  - React.js (Vite.js)
+  - Firebase 
+- **Backend:**
+  - Node.js (Express.js)
   - MongoDB
-  - RESTful API
-  - GraphQL
-  - Apollo Server
-  - PHP
-  - WordPress
-</details>
-
-<details>
-  <summary>Database Management</summary>
-  - MySQL
-  - MongoDB
-  - MySQL Workbench
-  - MongoDB Compass
-</details>
-
-<details>
-  <summary>Version Control & Tools</summary>
-  - Git
-  - GitHub
+  - GraphQL (Apollo Server)
+- **Database & Tools:**
+  - MySQL (Workbench)
+  - MongoDB (Compass)
+  - Git (GitHub)
   - Visual Studio (IDE)
-  - Insomnia (API testing)
-</details>
-
-<details>
-  <summary>Security and Data Management</summary>
-  - Security and Session Storage
-  - User Authentication
-</details>
-
+- **Security & Authentication:**
+  - Security Management
+  - User Authentication (JWT)
+- **Others:**
+  - PHP (WordPress)
 
 <!--
 **jnmayhook/jnmayhook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
